@@ -13,7 +13,7 @@
 I cut performance ads that sell, and I make AI footage look like cinema.
 
 - **Now:** AI video editor and UGC ad creator at Pendulum House of Brands. I ship 20+ Meta ads a month, each concept with several A/B-tested hooks.
-- **AI production:** 3D skeleton VSLs, claymation, Pixar-style stories, AI music videos and illustrated explainers, made with Kling, Higgsfield, ElevenLabs and Midjourney-style image pipelines.
+- **AI production:** 3D skeleton VSLs, claymation, Pixar-style stories, AI music videos and illustrated explainers, made with Kling, Higgsfield and ElevenLabs.
 - **Before that:** cinematic wedding films (AN Weddings) and hospital brand films (StemRx Hospital).
 - **Toolkit:** Premiere Pro · After Effects · DaVinci Resolve · Audition · CapCut · Kling · Higgsfield · ElevenLabs · n8n
 
