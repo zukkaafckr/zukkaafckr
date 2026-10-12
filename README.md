@@ -12,6 +12,12 @@
 
 I cut performance ads that sell, and I make AI footage look like cinema.
 
+### 🎬 Showreel 2026
+
+<a href="https://jmvisual.netlify.app"><img src="https://jmvisual.netlify.app/media/reel-Original-16x9.jpg" alt="Jay Mhatre — Showreel 2026" width="100%"></a>
+
+<p align="center">One ad I edited drove <b>$190K in revenue</b> · 1,836 purchases · 2.26× ROAS. <a href="https://jmvisual.netlify.app">Watch the reel →</a></p>
+
 - **Now:** AI video editor and UGC ad creator at Pendulum House of Brands. I ship 20+ Meta ads a month, each concept with several A/B-tested hooks.
 - **AI production:** 3D skeleton VSLs, claymation, Pixar-style stories, AI music videos and illustrated explainers, made with Kling, Higgsfield and ElevenLabs.
 - **Before that:** cinematic wedding films (AN Weddings) and hospital brand films (StemRx Hospital).
